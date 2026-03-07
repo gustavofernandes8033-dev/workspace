@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Abrir VS Code
+Comment=Abrir esta pasta no Visual Studio Code
+Exec=code .
+Path=/home/nex/Área de trabalho/workspace/fyne_hello/
+Icon=visual-studio-code
+Terminal=false
+Type=Application
