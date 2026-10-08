@@ -28,4 +28,3 @@ vitor.DescreverSe();
 //
 const guto = new Pessoa('guto', 2);
 guto.DescreverSe();
-

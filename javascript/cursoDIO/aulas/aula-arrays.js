@@ -13,6 +13,7 @@ console.log(alunos);
 
 const notas = [];
 
+
 notas.push(6);
 notas.push(9);
 notas.push(2);
